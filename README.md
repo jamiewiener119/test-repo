@@ -7,4 +7,3 @@ I am making some edits to their README file using Markdown!
 I can use simple text formatting to make **bold** or *italicized* text!
 
 ## Added this new section on a branch
-"Here is some new text I am adding from the terminal to update the README file." 
